@@ -1,7 +1,8 @@
 # Stock Price Prediction Using Hidden Markov Model (HMM)
 
 ## Overview
-This project utilizes Hidden Markov Models (HMMs) to predict stock prices of major companies such as Amazon (AMZN), Nvidia (NVDA), and Apple (AAPL). By modeling the underlying market conditions as hidden states, this project aims to provide accurate predictions of future stock prices, aiding investors in making informed decisions.
+Predicting stock market trends remains a complex challenge due to its inherent volatility and the potential for substantial financial returns. In this project, we used the Hidden Markov Model (HMM) to predict stock prices by representing market dynamics through hidden states. This project utilizes Hidden Markov Models (HMMs) to predict stock prices of major companies such as Amazon (AMZN), Nvidia (NVDA), and Apple (AAPL). The study's analysis concludes that the prediction results are elatively accurate, particularly in forecasting the trend of the company's stock fluctuations. However, the variance is significant, indicating a need to incorporate more ontrol variables and combine different prediction methods to achieve more accurate stock prediction results.
+
 
 ## Key Features
 
